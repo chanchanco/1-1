@@ -8,7 +8,7 @@ public class Food {
 		  String especially="広島焼き。";
 		  System.out.println("好きな食べ物: "+food);
 		  System.out.println("理由: "+reason);
-		  System.out.println("特に: "+reason);
+		  System.out.println("特に: "+especially);
 	}
 
 }
